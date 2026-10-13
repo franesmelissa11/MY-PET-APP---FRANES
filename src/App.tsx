@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import QuestionComponent from './Component/QuestionComponent'
+import QuestionComponent from './Components/QuestionComponent'
 
 function App() {
   const [startQuiz, setStartQuiz] = useState(false)
